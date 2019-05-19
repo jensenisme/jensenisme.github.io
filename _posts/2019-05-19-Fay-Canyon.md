@@ -20,4 +20,4 @@ Mara also saw benefits, and we decided to chase this high. We take weekends off 
 
 Our first hike (and second as of this writing) was [Fay Canyon Trail.](https://www.alltrails.com/trail/us/arizona/fay-canyon-trail) An admittedly easy, but perfect for our first foray, trail just a little outside Sedona. 
 
-![Beginning the trail](/images/Fay01/faycanyon01)
+![Beginning the trail](/images/Fay01/faycanyon01.jpg)
