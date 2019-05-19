@@ -46,7 +46,7 @@
         {% for post in site.posts %}
         {{ post.date }}
         {{ post.content }}
-        {{ post.tags }}
+        <small>Tags:</small>{{ post.tags }}
         <br>
         <br>
         {% endfor %}
