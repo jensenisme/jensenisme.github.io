@@ -29,7 +29,7 @@ Somewhere at the beginning.
 
 Getting higher.
 
-![can you take me higher](/images/tb33/thumb_butte_04.jpg)
+![can you take me higher](/images/tb33/thumb_Butte_04.jpg)
 
 Higher still.
 
