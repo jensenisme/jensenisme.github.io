@@ -29,19 +29,19 @@ Somewhere at the beginning.
 
 Getting higher.
 
-![more thumb butte](/images/tb33/thumb_butte_04.jpg)
+![can you take me higher](/images/tb33/thumb_butte_04.jpg)
 
 Higher still.
 
-![more thumb butte](/images/tb33/thumb_butte_05.jpg)
+![and higher](/images/tb33/thumb_butte_05.jpg)
 
 Coming down the other side, finally.
 
-![more thumb butte](/images/tb33/thumb_butte_06.jpg)
+![coming down](/images/tb33/thumb_butte_06.jpg)
 
-![more thumb butte](/images/tb33/thumb_butte_07.jpg)
+![smooth sailing](/images/tb33/thumb_butte_07.jpg)
 
-![more thumb butte](/images/tb33/thumb_butte_08.jpg)
+![down more](/images/tb33/thumb_butte_08.jpg)
 
 Some panaramics. 
 
