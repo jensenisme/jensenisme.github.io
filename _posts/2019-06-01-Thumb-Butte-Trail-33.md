@@ -11,7 +11,7 @@ author: jensen
 
 ![Selfie time!](/images/tb33/thumb_butte_01.jpg)
 
-Another lovely Saturday for a hike. Mara and I headed north again (and why not? It's much cooler in that direction), but this time veered west to Prescott. Our initial plan was to hit Firewater trail, an easy and only moderately traficked (according to AllTrails) trail not far outside historic downtown Prescott. Unfortunately there were fires (controlled burns) that had closed the trail for the weekend. On the way, though, we had passed Thumb Butte Recreation Area and it wasn't far back down the road. Not wanting to have driven for no hike, we opted to check that out. After a nice picnic lunch we walked over to the trailhead and started on our hike. It was a loop trail, and there were hikers coming from both directions, so I chose a direction and away we went. We didn't realize it, but I'd just made a very poor choice.
+Another lovely Saturday for a hike. Mara and I headed north again (and why not? It's much cooler in that direction), but this time veered west to Prescott. Our initial plan was to hit Firewater trail, an easy and only moderately trafficked (according to AllTrails) trail not far outside historic downtown Prescott. Unfortunately there were fires (controlled burns) that had closed the trail for the weekend. On the way, though, we had passed Thumb Butte Recreation Area and it wasn't far back down the road. Not wanting to have driven for no hike, we opted to check that out. After a nice picnic lunch we walked over to the trailhead and started on our hike. It was a loop trail, and there were hikers coming from both directions, so I chose a direction and away we went. We didn't realize it, but I'd just made a very poor choice.
 
 The poor choice didn't spend much time in hiding though, 15 minutes in or so it started to seem like this was a very steep climb that was not leveling out at all any time soon. It couldn't be that bad, we thought, and stayed the course. Being novices still, we were 'feeling the burn' as they say, but remained optimistic. We took our time, tackling it as best we could, but it just felt like a relentless beast - switchback after switchback of ascent. We'd gone too far to go back, what goes up must come down. "I think I see it leveling off around this corner!" I kept assuring a now grumbling Mara. After making this promise four or five times, I was told to can it. Optimism waning after every switchback we finally encountered a couple on the way down who mentioned "Oh it's much easier if you take the other path up, and this one down." We groaned. The husband in the pair ventured a guess that it was five more switchbacks and we'd reach the top. We knew we had to complete the climb. We could complete the climb!
 
@@ -43,7 +43,7 @@ Coming down the other side, finally.
 
 ![more thumb butte](/images/tb33/thumb_butte_08.jpg)
 
-Some panoramics. 
+Some panaramics. 
 
 ![more thumb butte](/images/tb33/thumb_butte_pan_01.jpg)
 
