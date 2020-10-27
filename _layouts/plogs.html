@@ -40,18 +40,8 @@
       </header>
       <section>
 
-
-      <ul>
-        {% for post in site.posts %}
-        {{ post.date }}
-        posted by:{{ post.author }}
-        {{ post.content }}
-        Tags:  {{ post.tags }}
-        <br>
-        <br>
-        {% endfor %}
-      </ul>
-
+        {{ content }}
+    
       </section>
       <footer>
         {% if site.github.is_project_page %}
