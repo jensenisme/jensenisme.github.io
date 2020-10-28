@@ -44,13 +44,10 @@
 
       <ul>
         {% for post in site.posts %}
-        {{ post.date }}
-        posted by:{{ post.author }}
-        {{ post.content }}
-        Tags:  {{ post.tags }}
-        <br>
-        <br>
-        {% endfor %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
       </ul>
 
       </section>
