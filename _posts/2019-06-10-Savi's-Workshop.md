@@ -7,8 +7,6 @@ date: "2019-06-10 10:30:00"
 author: jensen
 ---
 
-# Savi's Workshop Experience - What it was like to build my own lightsaber.
-
 I recently visited Disneyland on a family vacation and we were able to check out their new Star Wars themed area, Galaxy's Edge. I have lots to say and share about the trip, but the lightsaber workshop was one of the highlights. We spent three days at Disneyland and our reservation to visit Galaxy's Edge was Thursday - our final day. I spent the time leading in waffling on whether to do the lightsaber build. It sounded cool based on articles I'd read, but it was also 200$. I love Star Wars, a few years ago that price tag wouldn't have made me bat an eye. But, moving a bunch and having to box and unbox collectable after collectable has worn my love of statues, figures, and replicas significantly. That was all forgotten when Thursday arrived. Standing in line at the cusp of Galaxy's Edge I told Mara, "I'm building a lightsaber." When the countdown ended and the crowd moved, we hurried to Savi's Workshop, luckily we were very near the front of the line and soon had a ticket in hand.
 
 Shortly after I received my ticket, a kind woman in full Star Wars townsfolk garb came over with a series of tablets illustrating different hilt styles. You could choose "Peace and Justice" (Luke style hilt), "Power and Control" (Vader/Sith style hilt), "Elemental Nature" (wood grains, bones, teeth), and "Protection and Defense" (mysterious runes, golds and silvers). I rather liked the look of the "Elemental Nature" option and chose that.

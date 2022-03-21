@@ -7,8 +7,6 @@ date: "2019-05-19 09:39:00"
 author: jensen
 ---
 
-# Fay Canyon Trail
-
 For a little over a month, Mara and I have been exercising and eating healthier. While losing weight is a goal, it's also part of an overall ambition to change our lifestyle. For me, the mental benefits were apparent more quickly than the physical. After just a week of going to the gym and eating more fruits and vegetables I noticed:
 
 * Feeling less depressed

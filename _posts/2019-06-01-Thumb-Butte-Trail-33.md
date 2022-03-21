@@ -7,8 +7,6 @@ date: "2019-06-01 06:00:00"
 author: jensen
 ---
 
-# Thumb Butte Trail 33 - Or, Read the damn sign before you start the hike.
-
 ![Selfie time!](/images/tb33/thumb_butte_01.JPG)
 
 Another lovely Saturday for a hike. Mara and I headed north again (and why not? It's much cooler in that direction), but this time veered west to Prescott. Our initial plan was to hit Firewater trail, an easy and only moderately trafficked (according to AllTrails) trail not far outside historic downtown Prescott. Unfortunately there were fires (controlled burns) that had closed the trail for the weekend. On the way, though, we had passed Thumb Butte Recreation Area and it wasn't far back down the road. Not wanting to have driven for no hike, we opted to check that out. After a nice picnic lunch we walked over to the trailhead and started on our hike. It was a loop trail, and there were hikers coming from both directions, so I chose a direction and away we went. We didn't realize it, but I'd just made a very poor choice.

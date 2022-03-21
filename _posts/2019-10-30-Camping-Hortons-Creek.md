@@ -7,8 +7,6 @@ date: "2019-10-30 06:46:00"
 author: jensen
 ---
 
-# Camping at Ponderosa & Hiking Horton's Creek.
-
 ![Reserved.](/images/Camping-Horton/reserved.jpg)
 
 ![Our modest camp](/images/Camping-Horton/jensenspano.jpg)
